@@ -1,0 +1,8 @@
+.displayedItems {
+	border: 3px solid black;
+	padding: 100px;
+	margin: 50px 0 0 0;
+	float: right;
+	background-color:  #FEFAC0;
+	color: #785616;
+}
