@@ -20,7 +20,7 @@ myRequest.addEventListener("load", executeThisAfterFileIsLoaded);
 myRequest.addEventListener("error", executeThisIfXHRFails);
 
 // Tell it which HTTP verb to use: GET, POST, PUT, DELETE, PATCH
-myRequest.open("GET", "main.json");
+myRequest.open("GET", "second.json");
 // Go get it, boy!
 myRequest.send();
 
