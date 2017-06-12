@@ -27,7 +27,7 @@ myRequest.send();
 // DOM manipulation stuff
 function outputSongs(songsArr) {
 	let songList = document.getElementById("song-list");
-	songs.Arr.forEach( function(song) {
+	songsArr.forEach( function(song) {
 		console.log("song title", song.title);
 		songList.innerHTML += `<h2>${song.title}</h2>`
 	});
