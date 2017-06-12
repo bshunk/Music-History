@@ -1,8 +1,3 @@
-// Take your music and split it into two JSON files instead of them all living on one file.
-// Add a button at the bottom of your music list and label it More >.
-// Load the songs from the first list, and inject the DOM into the document as you've already done.
-// When the user clicks that button, load the songs from the second JSON file and append them to the bottom of the existing music, but before the More button.
-
 console.log("First line in JS file", Date.now());
 
 // Create a new request object
