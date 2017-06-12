@@ -1,0 +1,40 @@
+{
+	"songs": [
+		
+		{	
+			"title": "Coastal Brake",
+			"artist": "Tycho",
+			"album": "Dive"
+		},
+		{
+			"title": "Ascension",
+			"artist": "Tycho",
+			"album": "Dive"
+		}
+		{	
+			"title": "Killer Queen",
+			"artist": "Queen",
+			"album": "Greatest Hits"
+		},
+		{	
+			"title": "Fat Bottomed Girls",
+			"artist": "Queen",
+			"album": "Greatest Hits"
+		},
+		{	
+			"title": "Don't Stop Me Now",
+			"artist": "Queen",
+			"album": "Greatest Hits"
+		},
+		{	
+			"title": "I Want To Break Free",
+			"artist": "Queen",
+			"album": "Greatest Hits"
+		},
+		{
+			"title": "We Will Rock You",
+			"artist": "Queen",
+			"album": "Greatest Hits"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"songs": [
+		{
+			"title": "Standing On The Shore",
+			"artist": "Empire Of The Sun",
+			"album": "Walking On A Dream"
+		},
+		{
+			"title": "Walking On A Dream",
+			"artist": "Empire Of The Sun",
+			"album": "Walking On A Dream"
+		},
+		{
+			"title": "We Are The People",
+			"artist": "Empire Of The Sun",
+			"album": "Walking On A Dream"
+		},
+		{
+			"title": "Country",
+			"artist": "Empire Of The Sun",
+			"album": "Walking On A Dream"
+		},
+		{
+			"title": "Concert Pitch",
+			"artist": "Empire Of The Sun",
+			"album": "Ice On The Dune"
+		},
+		{	
+			"title": "A Walk",
+			"artist": "Tycho",
+			"album": "Dive"
+		},
+		{	
+			"title": "Hours",
+			"artist": "Tycho",
+			"album": "Dive"
+		},
+		{	
+			"title": "Dive",
+			"artist": "Tycho",
+			"album": "Dive"
+		},
+	]
+}
